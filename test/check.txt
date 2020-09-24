@@ -10,3 +10,5 @@
 相似率为：0.83
 两篇文章(.\test\test\orig.txt & .\test\test\orig.txt)
 相似率为：1.0
+两篇文章(.\test\orig.txt & .\test\orig_0.8_add.txt)
+相似率为：0.85

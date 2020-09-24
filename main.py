@@ -149,10 +149,9 @@ class PaperCheck():
 
 
 if __name__ == '__main__':
-    '''
-    命令行用法：
-    python .\main.py .\test\test\orig.txt .\test\test\orig_0.8_dis_15.txt .\test\test\check.txt
-    '''
+
+    # 命令行用法：
+    # python .\main.py .\test\test\orig.txt .\test\test\orig_0.8_dis_15.txt .\test\test\check.txt
     papercheck = PaperCheck()
-    # argv=['.\\main.py','.\\test\\test\\orig.txt','.\\test\\test\\orig_0.8_add.txt','.\\test\\test\orig_check.txt']
+    # argv=['.\\main.py','.\\test\\orig.txt','.\\test\\orig_0.8_add.txt','.\\test\\check.txt']
     papercheck.check_similar(argv)
