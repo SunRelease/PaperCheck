@@ -68,25 +68,6 @@
 
 ![](https://img2020.cnblogs.com/blog/1591211/202009/1591211-20200923234111241-1945020001.png)
 
-### 单元测试展示代码
-```
-
-两篇文章(.\test\test\orig.txt & .\test\test\orig_0.8_add.txt)
-相似率为：0.85
-
-两篇文章(.\test\test\orig.txt & .\test\test\orig_0.8_del.txt)
-相似率为：0.83
-
-两篇文章(.\test\test\orig.txt & .\test\test\orig_0.8_dis_1.txt)
-相似率为：0.73
-
-两篇文章(.\test\test\orig.txt & .\test\test\orig_0.8_dis_10.txt)
-相似率为：0.76
-
-两篇文章(.\test\test\orig.txt & .\test\test\orig_0.8_dis_15.txt)
-相似率为：0.83
-
-```
 
 ### 单元测试展示代码
 - 测试抄袭文本
